@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Installer>
-    <Name>AnyLink Secure Client</Name>
-    <Version>0.9.5</Version>
+    <Name>Rokae VPN</Name>
+    <Version>1.0</Version>
     <Title>Rokae VPN</Title>
     <Publisher>https://office.i.rokae.com:5443</Publisher>
     <ProductUrl>https://office.i.rokae.com:5443</ProductUrl>
     <InstallerWindowIcon>anylink64.png</InstallerWindowIcon>
     <InstallerApplicationIcon>anylink</InstallerApplicationIcon>
-    <StartMenuDir>Rokae VPN/StartMenuDir>
+    <StartMenuDir>Rokae VPN</StartMenuDir>
     <TargetDir>@ApplicationsDir@/</TargetDir>
     <RemoveTargetDir>true</RemoveTargetDir>
     <WizardShowPageList>false</WizardShowPageList>
