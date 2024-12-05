@@ -1,7 +1,7 @@
 [Desktop Entry]
 Type=Application
-Name=AnyLink Secure Client
-Comment=A VPN client that utilizes TLS and DTLS for secure session establishment
+Name=Rokae VPN
+Comment=珞石 VPN 客户端
 Terminal=false
 Icon=/opt/anylink/anylink.png
 Exec=/opt/anylink/bin/anylink
