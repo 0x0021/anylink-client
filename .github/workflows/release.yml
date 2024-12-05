@@ -15,7 +15,7 @@ jobs:
         build: [linux, linux-latest, windows, macos, macos-arm64]
         include:
         - build: linux-latest
-          os: ubuntu-22.04
+          os: ubuntu-24.04
           qt: 6.6.2
           arch: gcc_64
           qt-modules: 'qtwebsockets'
