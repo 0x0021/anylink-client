@@ -16,35 +16,35 @@ jobs:
         include:
         - build: linux-latest
           os: ubuntu-24.04
-          qt: 6.7.3
+          qt: 6.6.2
           arch: gcc_64
           qt-modules: 'qtwebsockets'
           # qt-tools: 'tools_ifw'
           installer-name: anylink-linux-amd64.run
         - build: linux
           os: ubuntu-24.04
-          qt: 6.7.3
+          qt: 6.4.3
           arch: gcc_64
           qt-modules: 'qtwebsockets'
           # qt-tools: 'tools_ifw'
           installer-name: anylink-linux-amd64.run
         - build: windows
-          os: windows-2022
-          qt: 6.7.3
+          os: windows-2019
+          qt: 6.6.2
           arch: win64_msvc2019_64
           qt-modules: 'qtwebsockets'
           qt-tools: 'tools_qtcreator'
           installer-name: anylink-windows10-amd64.exe
         - build: macos
-          os: macos-14
-          qt: 6.7.3
+          os: macos-12
+          qt: 6.6.2
           arch: clang_64
           qt-modules: 'qtwebsockets'
           # qt-tools: 'tools_ifw'
           installer-name: anylink-installer
         - build: macos-arm64
           os: macos-14
-          qt: 6.7.3
+          qt: 6.6.2
           arch: clang_64
           qt-modules: 'qtwebsockets'
           # qt-tools: 'tools_ifw'
