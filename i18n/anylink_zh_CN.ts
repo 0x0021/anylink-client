@@ -6,7 +6,7 @@
     <message>
         <location filename="../src/anylink.cpp" line="+29"/>
         <source>AnyLink Secure Client</source>
-        <translation>AnyLink 安全客户端</translation>
+        <translation>Roke VPN 客户端</translation>
     </message>
     <message>
         <location filename="../src/anylink.ui" line="+58"/>
@@ -290,7 +290,7 @@
     <message>
         <location filename="../src/profilemanager.ui" line="+14"/>
         <source>Profile Manager</source>
-        <translation>Profile 管理</translation>
+        <translation>配置管理</translation>
     </message>
     <message>
         <location line="+21"/>
@@ -309,7 +309,7 @@
         <source>Host:</source>
         <translation>主机：</translation>
     </message>
-    <message>
+    <message>∂
         <location line="+17"/>
         <source>Username:</source>
         <translation>用户名：</translation>
@@ -327,7 +327,7 @@
     <message>
         <location line="+14"/>
         <source>Secret:</source>
-        <translation></translation>
+        <translation>密钥：</translation>
     </message>
     <message>
         <location line="+32"/>
